@@ -21,7 +21,6 @@ General channels for Spartan groups are their platoon # followed by two 0's
 
 ### LR Channels
 
-Standard LR channels for Spartan groups 
 > LR General: `50`
 
 > 1st PLT: `51`
