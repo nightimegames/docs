@@ -4,15 +4,17 @@
 This is the way I (endigma) went about configuring it when I first joined up and set them up. Feel free to customize.
 # Ground
 ### Channel Guide
+#### Short Range
 Radio channels in Spartan groups work as follows, each : representing place value.
 `Platoon`:`Squad`:`Team`
-#### For example:
+##### For example:
 
 > *2-2, Team 1* would be on frequency `221`.
 
 > *2-3, Team 2* would be on frequency `232`.
 
-
+#### Long Range
+xxxx
 
 # Aviation
 ### Channels and Binds once done
