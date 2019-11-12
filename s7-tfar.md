@@ -13,7 +13,7 @@ SR in Spartan groups work as follows, each : representing place value.
 
 > *2-3, Team 2* would be on frequency `232`.
 
-General channels for Spartan groups are the first place value in their group.
+General channels for Spartan groups are their platoon # followed by two 0's
 
 > *Spartan 1* would be on general frequency `100`
 
