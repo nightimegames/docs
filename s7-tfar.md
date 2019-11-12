@@ -15,6 +15,7 @@
 SR in Spartan groups work as follows, each : representing place value.
 
 `Platoon`:`Squad`:`Team`
+
 `Spartan`:`1-4`: `X`
 
 **For example:**
