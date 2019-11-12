@@ -47,7 +47,7 @@ In an ideal world, one should have binds set up for each of their relavent chann
 - **SR TRANSMIT ADDITIONAL** - Ctrl+Caps Lock
 
 This allows you to both be LR capable if you are placed in a position requiring one, while also allowing easy and intuitive switching between relavent SR channels. In this example, an infantryman would set their SR CH1 to their specific frequency, lets say they are a member of Team 4 of Spartan 1-3, so `134`, and their SR A2 to be the general frequency for their platoon, in this case `100`. This allows our theoretical infantryman to monitor both channels, intuitively speak on his team specific one, while also maintaining relatively ergonomic access to the general channel.
-
+***
 # Aviation
 ## Channels and Binds once done
 **GENERAL AVIATION CHANNELS (CTRL CAPS AND Y)** *(Put these on your left earphone)*
