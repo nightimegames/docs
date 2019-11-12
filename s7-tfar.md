@@ -5,7 +5,7 @@
 - [Ground](#ground)
 - [Aviation](#aviation)
 - [Medics](#Medics)
-- [FO Squadron](#FO Squadron)
+- [FO Squadron](#FO-Squadron)
 
 ***
 
