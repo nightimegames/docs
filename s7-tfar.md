@@ -68,7 +68,14 @@ This allows you to both be LR capable if you are placed in a position requiring 
 - **LR TRANSMIT ADDITIONAL** - Y
 - **SR TRANSMIT** - Caps Lock
 - **SR TRANSMIT ADDITIONAL** - Ctrl+Caps Lock
-
+***
 ## Medics
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempor est sed interdum efficitur. Phasellus et enim in nibh iaculis facilisis. Quisque congue libero at velit elementum, vel imperdiet turpis sagittis. Quisque vitae ipsum tellus. Integer viverra purus nulla, sit amet dignissim risus scelerisque nec. Ut hendrerit sapien sapien. Praesent non mauris maximus, convallis metus sed, tempor nulla. Proin tortor turpis, bibendum a tempor id, lobortis sed justo. Nam suscipit mauris nisl, id posuere lorem venenatis sed. Morbi vitae cursus mi.
 
+Nunc et est orci. Suspendisse volutpat quam in tempor sollicitudin. Pellentesque sit amet massa vel neque pharetra imperdiet. Cras eros leo, cursus id condimentum eget, sollicitudin nec mi. Morbi vel augue dapibus justo elementum malesuada. Donec et leo ut sem dignissim euismod ac non ex. Pellentesque ac risus risus. Aenean sit amet rhoncus dolor. Pellentesque felis nunc, varius rhoncus aliquet quis, auctor nec dolor. Nullam non dolor facilisis felis aliquet blandit. Ut vitae rutrum tortor.
+***
 ## FO Squadron
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempor est sed interdum efficitur. Phasellus et enim in nibh iaculis facilisis. Quisque congue libero at velit elementum, vel imperdiet turpis sagittis. Quisque vitae ipsum tellus. Integer viverra purus nulla, sit amet dignissim risus scelerisque nec. Ut hendrerit sapien sapien. Praesent non mauris maximus, convallis metus sed, tempor nulla. Proin tortor turpis, bibendum a tempor id, lobortis sed justo. Nam suscipit mauris nisl, id posuere lorem venenatis sed. Morbi vitae cursus mi.
+
+Nunc et est orci. Suspendisse volutpat quam in tempor sollicitudin. Pellentesque sit amet massa vel neque pharetra imperdiet. Cras eros leo, cursus id condimentum eget, sollicitudin nec mi. Morbi vel augue dapibus justo elementum malesuada. Donec et leo ut sem dignissim euismod ac non ex. Pellentesque ac risus risus. Aenean sit amet rhoncus dolor. Pellentesque felis nunc, varius rhoncus aliquet quis, auctor nec dolor. Nullam non dolor facilisis felis aliquet blandit. Ut vitae rutrum tortor.
+***
