@@ -6,7 +6,7 @@ This is the way I (endigma) went about configuring it when I first joined up and
 ### Channel Guide
 Radio channels in Spartan groups work as follows, each : representing place value.
 `Platoon`:`Squad`:`Team`
-For example:
+#### For example:
 
 > *2-2, Team 1* would be on frequency `221`.
 
