@@ -2,8 +2,19 @@
 ### *for the S7 Arma 3 community*
 
 This is the way I (endigma) went about configuring it when I first joined up and set them up. Feel free to customize.
+# Ground
+### Channel Guide
+Radio channels in Spartan groups work as follows, each : representing place value.
+`Platoon`:`Squad`:`Team`
+For example:
+*2-2, Team 1* would be on frequency `221`.
 
-## Channels and Binds once done
+*2-3, Team 2* would be on frequency `232`.
+
+
+
+# Aviation
+### Channels and Binds once done
 **GENERAL AVIATION CHANNELS (CTRL CAPS AND Y)** *(Put these on your left earphone)*
 - SR General: `400` (SR A2) (CTRL-CAPS)
 - LR General: `53.1` (LR A2) (Y)
@@ -16,7 +27,7 @@ This is the way I (endigma) went about configuring it when I first joined up and
 - SR CAS: `410` (SR CH1) (CAPS)
 - LR CAS: `53.2` (LR CH1) (T)
 
-## Binds 
+### Binds 
 (Controls -> Configure Addons -> TFAR in dropdown)
 - **LR TRANSMIT** - T
 - **LR TRANSMIT ADDITIONAL** - Y
