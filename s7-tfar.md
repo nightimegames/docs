@@ -67,3 +67,7 @@ This allows you to both be LR capable if you are placed in a position requiring 
 - **LR TRANSMIT ADDITIONAL** - Y
 - **SR TRANSMIT** - Caps Lock
 - **SR TRANSMIT ADDITIONAL** - Ctrl+Caps Lock
+
+## Medics
+
+## 
