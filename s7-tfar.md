@@ -47,7 +47,10 @@ In an ideal world, one should have binds set up for each of their relavent chann
 - **SR TRANSMIT** - Caps Lock
 - **SR TRANSMIT ADDITIONAL** - Ctrl+Caps Lock
 
-This allows you to both be LR capable if you are placed in a position requiring one, while also allowing easy and intuitive switching between relavent SR channels. In this example, an infantryman would set their SR CH1 to their specific frequency, lets say they are a member of Team 4 of Spartan 1-3, so `134`, and their SR A2 to be the general frequency for their platoon, in this case `100`. This allows our theoretical infantryman to monitor both channels, intuitively speak on his team specific one, while also maintaining relatively ergonomic access to the general channel.
+This allows you to both be LR capable if you are placed in a position requiring one, while also allowing easy and intuitive switching between relavent SR channels. 
+
+Lets imagine an infantryman who is a member of Spartan 1-3, Team 4, so their SR Specific is `134`, and their SR General is `100`. These keybindings applied to our theoretical soldier allow him to monitor both channels and intuitively speak on his team specific one, while also maintaining relatively ergonomic access to the general channel.
+
 ***
 # Aviation
 A member of the aviation group has a far more complicated, but more stable radio setup. It requires that each person who is a member be on 4 channels at once, and they should be able to monitor and speak on all of them with reasonable efficiency. 
