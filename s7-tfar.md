@@ -16,11 +16,14 @@ SR in Spartan groups work as follows, each : representing place value.
 `Platoon`:`Squad`:`Team`
 
 **For example:**
-> *1-4, Team 3* would be on frequency `143`.
+> *1-4, Team 3* would be on frequency `140` or `143`.
 
-> *2-2, Team 1* would be on frequency `221`.
+> *2-2, Team 1* would be on frequency `220` or `221`.
 
-> *2-3, Team 2* would be on frequency `232`.
+> *2-3, Team 2* would be on frequency `230` or `232`.
+
+#### Note
+Generally, a team will never use their team specific frequency *ex `143`* unless they are conducting special business. Usually stick to your base frequency, for example if they were branching off to do something else, which is unlikely. Normally a team will maintain their Squad's frequency. This works in a heirarchical fashion, meaning that to speak to your parent group, you simply remove a place value.
 
 General channels for Spartan groups are their platoon # followed by two 0's
 
