@@ -8,6 +8,7 @@ SR in Spartan groups work as follows, each : representing place value.
 `Platoon`:`Squad`:`Team`
 
 **For example:**
+> *1-4, Team 3* would be on frequency `143`.
 
 > *2-2, Team 1* would be on frequency `221`.
 
@@ -19,6 +20,8 @@ General channels for Spartan groups are their platoon # followed by two 0's
 
 > *Spartan 2* would be on general frequency `200`
 
+> Special channel `107.7` is sometimes used for **command elements only**.
+
 ### LR Channels
 
 > LR General: `50`
@@ -27,6 +30,8 @@ General channels for Spartan groups are their platoon # followed by two 0's
 
 > 2nd PLT: `52`
 
+## Setup Guide
+In an ideal world, one should have binds set up for each of their relavent channels. For an infantry member of a Spartan group, these would be their SR general, and SR specific 
 
 # Aviation
 ## Channels and Binds once done
