@@ -13,6 +13,7 @@
 ## Channel Guide
 ### SR Channels 
 SR in Spartan groups work as follows, each : representing place value.
+
 `Platoon`:`Squad`:`Team`
 
 **For example:**
