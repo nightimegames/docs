@@ -16,7 +16,9 @@ SR in Spartan groups work as follows, each : representing place value.
 
 `Platoon`:`Squad`:`Team`
 
-`Spartan`:`1-4`: `X`
+eg.
+
+> `Spartan`:`1-4`: `X`
 
 **For example:**
 > *1-4, Team 3* would be on frequency `140` or `143`.
