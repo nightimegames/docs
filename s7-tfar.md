@@ -6,6 +6,7 @@
 ### SR Channels 
 SR in Spartan groups work as follows, each : representing place value.
 `Platoon`:`Squad`:`Team`
+
 **For example:**
 
 > *2-2, Team 1* would be on frequency `221`.
