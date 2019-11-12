@@ -31,7 +31,15 @@ General channels for Spartan groups are their platoon # followed by two 0's
 > 2nd PLT: `52`
 
 ## Setup Guide
-In an ideal world, one should have binds set up for each of their relavent channels. For an infantry member of a Spartan group, these would be their SR general, and SR specific 
+In an ideal world, one should have binds set up for each of their relavent channels. For an infantry member of a Spartan group, these would be their SR general and SR specific. I personally recommend reconfiguring your binds to adapt to these requirements, and I recommend the following:
+ 
+*(Controls -> Configure Addons -> TFAR in dropdown)*
+- **LR TRANSMIT** - T
+- **LR TRANSMIT ADDITIONAL** - Y
+- **SR TRANSMIT** - Caps Lock
+- **SR TRANSMIT ADDITIONAL** - Ctrl+Caps Lock
+
+This allows you to both be LR capable if you are placed in a position requiring one, while also allowing easy and intuitive switching between relavent SR channels. In this example, an infantryman would set their SR CH1 to their specific frequency, lets say they are a member of Team 4 of Spartan 1-3, so `134`, and their SR A2 to be the general frequency for their platoon, in this case `100`. This allows our theoretical infantryman to monitor both channels, intuitively speak on his team specific one, while also maintaining relatively ergonomic access to the general channel.
 
 # Aviation
 ## Channels and Binds once done
