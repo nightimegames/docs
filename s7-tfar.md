@@ -71,4 +71,4 @@ This allows you to both be LR capable if you are placed in a position requiring 
 
 ## Medics
 
-## 
+## FO Squadron
