@@ -3,8 +3,7 @@
 
 # Ground
 ## Channel Guide
-### Team Channels
-#### SR Channels 
+### SR Channels 
 SR in Spartan groups work as follows, each : representing place value.
 `Platoon`:`Squad`:`Team`
 **For example:**
@@ -13,11 +12,13 @@ SR in Spartan groups work as follows, each : representing place value.
 
 > *2-3, Team 2* would be on frequency `232`.
 
-#### LR C
+General channels for Spartan groups are the first place value in their group.
 
-### General Channels
-SR General frequency for Spartan groups is `100`,`200`, (*depending on your Platoon*) and sometimes `107.7` as an auxillary channel for **command elements.**
-*`107.7` should not be used for comms by any infantry unit aside from command elements.*
+> *Spartan 1* would be on general frequency `100`
+
+> *Spartan 2* would be on general frequency `200`
+
+### LR Channels
 
 Standard LR channels for Spartan groups 
 - LR General: `50`
